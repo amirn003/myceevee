@@ -341,12 +341,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 80%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 90%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
@@ -1004,3 +1004,27 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+
+.php {
+    width: 75%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
+.perl {
+    width: 85%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
+.python {
+    width: 90%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
+
+.javascript {
+    width: 70%;
+  	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease;
+}
